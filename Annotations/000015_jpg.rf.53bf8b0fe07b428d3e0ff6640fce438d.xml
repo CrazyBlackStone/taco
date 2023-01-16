@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>000015_jpg.rf.53bf8b0fe07b428d3e0ff6640fce438d.jpg</filename>
+	<path>000015_jpg.rf.53bf8b0fe07b428d3e0ff6640fce438d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>448</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Other litter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>298</xmin>
+			<xmax>382</xmax>
+			<ymin>64</ymin>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>32</xmin>
+			<xmax>170</xmax>
+			<ymin>296</ymin>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Unlabeled litter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>124</xmin>
+			<xmax>132</xmax>
+			<ymin>255</ymin>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

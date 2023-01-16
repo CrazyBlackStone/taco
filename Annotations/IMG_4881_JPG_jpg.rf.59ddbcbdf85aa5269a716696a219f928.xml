@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_4881_JPG_jpg.rf.59ddbcbdf85aa5269a716696a219f928.jpg</filename>
+	<path>IMG_4881_JPG_jpg.rf.59ddbcbdf85aa5269a716696a219f928.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>448</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plastic bag - wrapper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>157</xmin>
+			<xmax>179</xmax>
+			<ymin>302</ymin>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Unlabeled litter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>191</xmin>
+			<xmax>205</xmax>
+			<ymin>300</ymin>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>361</xmin>
+			<xmax>371</xmax>
+			<ymin>263</ymin>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

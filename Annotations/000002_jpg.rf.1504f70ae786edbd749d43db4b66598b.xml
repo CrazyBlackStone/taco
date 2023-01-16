@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>000002_jpg.rf.1504f70ae786edbd749d43db4b66598b.jpg</filename>
+	<path>000002_jpg.rf.1504f70ae786edbd749d43db4b66598b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>448</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plastic bag - wrapper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>197</xmin>
+			<xmax>299</xmax>
+			<ymin>314</ymin>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bag - wrapper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>133</xmin>
+			<xmax>145</xmax>
+			<ymin>439</ymin>
+			<ymax>447</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic bag - wrapper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>440</xmin>
+			<xmax>448</xmax>
+			<ymin>214</ymin>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>

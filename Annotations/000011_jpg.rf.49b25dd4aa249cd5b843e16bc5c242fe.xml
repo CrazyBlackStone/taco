@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>000011_jpg.rf.49b25dd4aa249cd5b843e16bc5c242fe.jpg</filename>
+	<path>000011_jpg.rf.49b25dd4aa249cd5b843e16bc5c242fe.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>448</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>257</xmin>
+			<xmax>283</xmax>
+			<ymin>227</ymin>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>

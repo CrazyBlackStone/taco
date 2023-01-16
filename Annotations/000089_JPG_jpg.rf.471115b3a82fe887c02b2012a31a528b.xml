@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>000089_JPG_jpg.rf.471115b3a82fe887c02b2012a31a528b.jpg</filename>
+	<path>000089_JPG_jpg.rf.471115b3a82fe887c02b2012a31a528b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>448</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Styrofoam piece</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>122</xmin>
+			<xmax>163</xmax>
+			<ymin>179</ymin>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_5051_JPG_jpg.rf.facdd13244e0c454c47c6df3471f1027.jpg</filename>
+	<path>IMG_5051_JPG_jpg.rf.facdd13244e0c454c47c6df3471f1027.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>448</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pop tab</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>191</xmin>
+			<xmax>196</xmax>
+			<ymin>260</ymin>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

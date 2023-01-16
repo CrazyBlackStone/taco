@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_4921_JPG_jpg.rf.577a424e78f23c70e9efe4d966b6ebc5.jpg</filename>
+	<path>IMG_4921_JPG_jpg.rf.577a424e78f23c70e9efe4d966b6ebc5.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>448</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plastic container</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>252</xmin>
+			<xmax>308</xmax>
+			<ymin>174</ymin>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic container</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>105</xmin>
+			<xmax>173</xmax>
+			<ymin>86</ymin>
+			<ymax>175</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Unlabeled litter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>96</xmin>
+			<xmax>132</xmax>
+			<ymin>60</ymin>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+</annotation>

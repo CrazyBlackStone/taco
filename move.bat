@@ -1,0 +1,6 @@
+for /r "C:\Users\Xieshi Zhang\Downloads\Science Fair 2023\taco\test\" %%x in (*.jpg) do move "%%x" "C:\Users\Xieshi Zhang\Downloads\Science Fair 2023\taco\JPEGImages\"
+for /r "C:\Users\Xieshi Zhang\Downloads\Science Fair 2023\taco\train\" %%x in (*.jpg) do move "%%x" "C:\Users\Xieshi Zhang\Downloads\Science Fair 2023\taco\JPEGImages\"
+for /r "C:\Users\Xieshi Zhang\Downloads\Science Fair 2023\taco\valid\" %%x in (*.jpg) do move "%%x" "C:\Users\Xieshi Zhang\Downloads\Science Fair 2023\taco\JPEGImages\"
+for /r "C:\Users\Xieshi Zhang\Downloads\Science Fair 2023\taco\test\" %%x in (*.xml) do move "%%x" "C:\Users\Xieshi Zhang\Downloads\Science Fair 2023\taco\Annotations\"
+for /r "C:\Users\Xieshi Zhang\Downloads\Science Fair 2023\taco\train\" %%x in (*.xml) do move "%%x" "C:\Users\Xieshi Zhang\Downloads\Science Fair 2023\taco\Annotations\"
+for /r "C:\Users\Xieshi Zhang\Downloads\Science Fair 2023\taco\valid\" %%x in (*.xml) do move "%%x" "C:\Users\Xieshi Zhang\Downloads\Science Fair 2023\taco\Annotations\"

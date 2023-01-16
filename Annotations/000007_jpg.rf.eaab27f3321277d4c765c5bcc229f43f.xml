@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>000007_jpg.rf.eaab27f3321277d4c765c5bcc229f43f.jpg</filename>
+	<path>000007_jpg.rf.eaab27f3321277d4c765c5bcc229f43f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>448</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plastic container</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>138</xmin>
+			<xmax>156</xmax>
+			<ymin>355</ymin>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Unlabeled litter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>426</xmin>
+			<xmax>434</xmax>
+			<ymin>407</ymin>
+			<ymax>449</ymax>
+		</bndbox>
+	</object>
+</annotation>

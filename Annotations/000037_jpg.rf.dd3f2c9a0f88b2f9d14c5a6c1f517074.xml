@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>000037_jpg.rf.dd3f2c9a0f88b2f9d14c5a6c1f517074.jpg</filename>
+	<path>000037_jpg.rf.dd3f2c9a0f88b2f9d14c5a6c1f517074.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>448</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>148</xmin>
+			<xmax>300</xmax>
+			<ymin>174</ymin>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bottle cap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>148</xmin>
+			<xmax>186</xmax>
+			<ymin>289</ymin>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Aluminium foil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>164</xmin>
+			<xmax>203</xmax>
+			<ymin>313</ymin>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>

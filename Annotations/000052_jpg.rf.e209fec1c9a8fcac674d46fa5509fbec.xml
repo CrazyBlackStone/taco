@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>000052_jpg.rf.e209fec1c9a8fcac674d46fa5509fbec.jpg</filename>
+	<path>000052_jpg.rf.e209fec1c9a8fcac674d46fa5509fbec.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>448</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>187</xmin>
+			<xmax>191</xmax>
+			<ymin>30</ymin>
+			<ymax>38</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Unlabeled litter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>191</xmin>
+			<xmax>203</xmax>
+			<ymin>62</ymin>
+			<ymax>88</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Styrofoam piece</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>203</xmin>
+			<xmax>246</xmax>
+			<ymin>264</ymin>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>000070_jpg.rf.512d21c524b5438189d7163823c133ae.jpg</filename>
+	<path>000070_jpg.rf.512d21c524b5438189d7163823c133ae.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>448</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Straw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>245</xmin>
+			<xmax>264</xmax>
+			<ymin>120</ymin>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

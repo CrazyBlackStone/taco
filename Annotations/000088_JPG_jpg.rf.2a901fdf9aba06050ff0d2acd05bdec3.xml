@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>000088_JPG_jpg.rf.2a901fdf9aba06050ff0d2acd05bdec3.jpg</filename>
+	<path>000088_JPG_jpg.rf.2a901fdf9aba06050ff0d2acd05bdec3.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>448</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aluminium foil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>225</xmin>
+			<xmax>233</xmax>
+			<ymin>356</ymin>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>000052_jpg.rf.0c9a440221b1c0ede23e6a31a4e78510.jpg</filename>
+	<path>000052_jpg.rf.0c9a440221b1c0ede23e6a31a4e78510.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>448</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Unlabeled litter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>167</xmin>
+			<xmax>185</xmax>
+			<ymin>191</ymin>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+</annotation>
